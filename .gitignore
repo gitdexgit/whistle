@@ -1,0 +1,5 @@
+venv/
+*.wav
+*.pipe
+*.pid
+__pycache__/
